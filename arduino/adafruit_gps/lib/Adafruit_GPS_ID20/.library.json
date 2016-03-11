@@ -1,0 +1,27 @@
+{
+    "name": "Adafruit-GPS", 
+    "repository": {
+        "url": "https://github.com/adafruit/Adafruit-GPS-Library.git", 
+        "type": "git"
+    }, 
+    "platforms": [
+        "atmelavr"
+    ], 
+    "frameworks": [
+        "arduino"
+    ], 
+    "version": "461d908af8", 
+    "authors": [
+        {
+            "maintainer": false, 
+            "name": "Adafruit Industries", 
+            "url": "https://github.com/adafruit", 
+            "email": null
+        }
+    ], 
+    "keywords": [
+        "gps"
+    ], 
+    "id": 20, 
+    "description": "An interrupt-based GPS library for no-parsing-required use"
+}
