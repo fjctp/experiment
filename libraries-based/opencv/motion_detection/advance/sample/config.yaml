@@ -1,0 +1,24 @@
+general:
+  
+  process:
+    camera_id: 0
+    frame_reduction_factor: 3
+    min_contour_area: 250
+    adaptive_rate: -1
+  
+  output:
+    output_dir: "."
+    record_duration_sec: 20
+    filename_prefix: "fullsize_"
+    picture_ext: ".png"
+    video_ext: ".avi"
+    format_string: "%m%d%y_%H%M%S"
+
+schedule:
+  sun: ~
+  mon: ~
+  tue: ~
+  wed: ~
+  thu: ~
+  fri: ~
+  sat: ~

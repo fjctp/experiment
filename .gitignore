@@ -1,0 +1,7 @@
+# Matlab
+slprj
+*.mexw64
+
+# general
+build
+target
